@@ -51,8 +51,9 @@ title: Curriculum Vitae
 
 ### Academic service
 
-- IEEE Transaction on Service Computing (2018)
-- IEEE BIGDATA Congress (2018)
-- IEEE Transaction on Cloud Computing (2016 - 2018)
+- Reviewer for IEEE Transaction on Service Computing (2018)
+- Reviewer for IEEE BIGDATA Congress (2018)
+- Program Commitee for IEEE FOURTH INTERNATIONAL WORKSHOP ON CONTAINER TECHNOLOGIES AND CONTAINER CLOUDS (WoC 2018)
+- Reviewer for IEEE Transaction on Cloud Computing (2016 - 2018)
 - 11th International Conference on Queueing Theory and Network Applications (QTNA 2016)
 - IEEE Symposium on Industrial Electronics and Applications (ISIEA 2012) 
