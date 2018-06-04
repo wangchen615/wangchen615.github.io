@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://chenw-615.github.io"
+url: "http://wangchen615.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -25,6 +25,7 @@ description: Researcher in Data driven Cloud management
 navbar-links:
   CV: "aboutme"
   Research: "research"
+  Contact: "https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Chen.Wang1"
   My hubby: "http://qiweihan.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -70,7 +71,7 @@ author:
 social-network-links:
   #rss: false
   email: “chenw@alumni.cmu.edu”
-  github: chenw-615
+  github: wangchen615
 #  reddit: yourname
 #  google-plus: +DeanAttali
   linkedin: chenw615
