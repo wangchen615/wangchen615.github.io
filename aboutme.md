@@ -5,77 +5,55 @@ title: Curriculum Vitae
 
 ### Personal summary
 
-> Researcher working on applied data science for social good.
+> Researcher working on big data driven large-scale Cloud management.
 
 ### Education
-- Ph.D. Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh PA
-- Ph.D. Institute for Systems and Robotics, Instituto Superior Tecnico, Lisbon, Portugal
-- M.S. Engineering and Public Policy, Carnegie Mellon University, Pittsburgh PA
-- M.S. Information Networking, Carnegie Mellon University, Pittsburgh PA
-- B.S. (with University Honor) Computer & Software Engineering, Beihang University, Beijing, China
+- Ph.D. Department of Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh PA
+- Ph.D. Faculdade de Engenharia da Universidade do Porto, Porto, Portugal
+- M.S. Department of Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh PA
+- M.S. School of Electrical and Information Engineering, Xi'an Jiaotong University, Xi'an, China
+- B.S. (with University Honor) School of Electrical and Information Engineering, Xi'an Jiaotong University, Xi'an, China
 
 ### Technical
 
-- Python, R, SQL, Java, Stata
-- Cloud devops in AWS and Azure
+- Python, Go, Matlab, Django, D3.js, Node.js, Java, C, C++, Perl, Shell
+- Cloud devops in Google Cloud, AWS, Azure, IBM Cloud, Rackspace, Fastly CDN, Hadoop, Spark
 
 ### Research experience
 
-- 2017-now: Research Scientist, Nova School of Business and Economics, Lisbon, Portugal
-    - Working with José de Mello Saúde, the largest private healthcare provider in Portugal
-    - Built hybrid recommender system with implicit feedback data from patient consultation history  
-    - Deploying model in production environment and designing randomized experiment to estimate the effect of recommendation on patient choices
+- 2017-now: Research Staff Member, IBM Thomas J. Watson Research Center, Yorktown Heights, NY
+    - Container Cloud Platform
 
-- 2017-now: Technical Mentor, Data Science for Social Good Europe
-    - Supervised 15 data science fellows to work on 5 real-world projects with social impact provided by government and public organizations from Italy, Netherland and Portugal on healthcare, digital tourism, unemployment prediction
-    - Gave regular training sessions on data science and social science topics, such as programming, data analytics, causal inference
-    - Managed program-wise computing resources and DevOps environment in Amazon Web Services and Microsoft Azure, using Opsworks, RDS, EC2, S3, CloudWatch
+- 2010-2017: Ph.D., Carnegie Mellon University
+    - QoE based Management and Control for Large-scale VoD system in the Cloud
+    - Advisors: [Prof. Hyong Kim](http://www.ece.cmu.edu/directory/department/faculty/K/Hyong_Kim_81.html), [Prof. Ricardo Morla](https://sites.google.com/site/ricardomorla/)
 
-- 2011-2017: Ph.D. Student, Carnegie Mellon University
-    - Designed and performed randomized controlled experiment in a physical bookstore to estimate the effects of search costs on consumer search and purchase behavior
-    - Implemented vision-understanding techniques to capture shopping behavior automatically using 3D camera
-    - Studied role of peer influence in subscriber churn and smartphone adoption using a large-scale mobile phone dataset
+### Selected Publications
 
-### Publications
-
-- **Qiwei Han**, Daegon Cho, Characterizing the Technological Evolution of Smartphones: Insights from Performance Benchmarks, 18th International Conference on Electronic Commerce (ICEC), Suwon, Korea, August 2016.
-- **Qiwei Han**, Social Influence Analysis using Mobile Phone Dataset, 17th IEEE International Conference on Mobile Data Management (MDM), Porto, Portugal, June 2016.
-- **Qiwei Han**, Pedro Ferreira, Jõao Paulo Costeira, Asymmetric Peer Influence in Smartphone Adoption in A Large Mobile Network, 14th International Conference on Mobile Business (ICMB) (co-located with ICIS), Fort Worth TX, December 2015.
-- **Qiwei Han**, Pedro Ferreira, Role of Peer Influence in Churn in Wireless Networks, 7th International Conference on Social Computing (SocialCom), Tsinghua University, Beijing, China, August 2014. (**Acceptance rate: 16.7%, Best Paper Award**)
-
-
-### Selected presentations
-
-- **Qiwei Han**, Inigo Martinez de Rituerto de Troya, Mengxin Ji, Manas Gaur, Leid Zejnilovic, A Collaborative Filtering Recommender System in Primary Care: Towards a Trusting Patient-Doctor Relationship, The Sixth IEEE International Conference on Healthcare Informatics (ICHI), New York NY, June 2018.
-- **Qiwei Han**, Leid Zejnilovic, Pedro Pita Barros, Patient-doctor dyads and patients’ switching patterns: towards trusting relationship in primary care, 14th Symposium on Statistical Challenges in Electronic Commerce Research (SCECR), Netherland, June 2018.
-- **Qiwei Han**, Leid Zejnilovic, Recommender Systems in Physical Retailing: Practices, Prospects and Policy Perspectives, The 3rd International Conference on Data for Policy, London UK, September 2017.
-- Leid Zejnilovic, **Qiwei Han**, The challenges and benefits of automated mediation system: case study of healthcare management, The 3rd International Conference on Data for Policy, London UK, September 2017.
-- **Qiwei Han**, Pedro Ferreira, Jõao Paulo Costeira, The Effect of Product Placement on Shopping Behavior at the Point of Purchase: Evidence from Randomized Experiment using Video Tracking in a Physical Bookstore, The Conference on Digital Experimentation (CODE), MIT Sloan School of Management, Cambridge MA, October 2016.
-- **Qiwei Han**, Pedro Ferreira, Jõao Paulo Costeira, Asymmetric Role of Social Influence in Smartphone Adoption in A Large Mobile Network, 4th Conference on the Analysis of Mobile Phone Datasets (NetMob), MIT Media Lab, Cambridge MA, April 2015.
-- **Qiwei Han**, Pedro Ferreira, Determinants of Subscriber Churn in Wireless Network, Role of Peer Influence, 3rd Conference on the Analysis of Mobile Phone Datasets (NetMob), MIT Media Lab, Cambridge MA, May 2013.
-
-### Consulting
-- Sacoor Brothers, high-end Portuguese clothing company
+- **Chen Wang**, Andal Jayaseelan, Hyong Kim, [Comparing Cloud Content Delivery Networks for Adaptive Video Streaming](./pdfs/chenw.cloud.2018.pdf), IEEE International Conference on Cloud Computing (IEEE CLOUD), San Francisco, July 2018.
+- **Chen Wang**, Hyong Kim, Ricardo Morla, [Identifying Persistent and Recurrent QoE Anomalies for DASH streaming in the Cloud](./pdfs/chenw.cloudcom.2017.pdf), IEEE International Conference on Cloud Computing Technology and Science (CloudCom), Hong Kong, December, 2017.
+- **Chen Wang**, Hyong Kim, Ricardo Morla, [QWatch: Detecting and Locating QoE anomaly for VoD in the Cloud](./pdfs/chenw.cloudcom.2016.pdf),  IEEE International Conference on Cloud Computing Technology and Science (CloudCom), Luxembourg, December 2016.
+- **Chen Wang**, Hyong Kim, Ricardo Morla, [Users Know Better: A QoE based Adaptive Control System for VoD in the Cloud](./pdfs/chenw.globecom.2015.pdf), IEEE Global Communication Conference (GLOBECOM), San Diego, December 2015.
+- **Chen Wang**, Hyong Kim, Ricardo Morla, [QoE Driven Server Selection for VoD in the Cloud](./pdfs/chenw.cloud.2015.pdf), IEEE 8th International Conference on Cloud Computing (IEEE CLOUD), New York, July 2015.
+- Nan Nan, Guizhong Liu, **Chen Wang**, [A BoF model based CBCD system using hierarchical indexing and feature similarity constraints](./pdfs/nannan.icimcs.2010.pdf), ACM Second International Conference on Internet Multimedia Computing and Service (ICIMCS), Harbin, December, 2010
 
 ### Invited talks
 - 2017: Accenture Tech Labs
+- 2016: IBM Thomas J. Watson Research Center
 - 2016: Huawei Technologies
 
 ### Awards and supporting information
 
-
-- AWS Cloud Credits for Research (DSSG-Europe Program), 2017-2018
-- Microsoft Azure for Research Award (DSSG-Europe Program), 2017
-- NSF Graduate Student Travel Grant, 2016
-- CMU Provost's Office Graduate Student Travel Grant, 2015
+- AWS Cloud Credits for Research, 2017
+- Microsoft Azure for Research Award, 2016
+- NSF Graduate Student Travel Grant, 2015, IEEE GLOBECOM
 - CMU - Portugal Program Ph.D. Fellowship, 2010-2015
-- Best Paper Award of 7th International Conference on Social Computing, 2014
-- CMU Full Tuition Scholarship for Master’s Degree, 2007-2009
-- Excellent University Graduate Award of Beihang University, 2007
 
 ### Academic service
 
-- International Conference on Information Systems (2017)
+- IEEE Transaction on Service Computing (2018)
+- IEEE BIGDATA Congress (2018)
+- IEEE Transaction on Cloud Computing (2016 - 2018)
 - Academy of Management Annual Meeting (2015-2017)
-- International Conference on Electronic Commerce (2016)
-- Electronic Commerce Research and Applications
+- 11th International Conference on Queueing Theory and Network Applications (QTNA 2016)
+- IEEE Symposium on Industrial Electronics and Applications (ISIEA 2012) 
