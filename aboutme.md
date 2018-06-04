@@ -54,6 +54,5 @@ title: Curriculum Vitae
 - IEEE Transaction on Service Computing (2018)
 - IEEE BIGDATA Congress (2018)
 - IEEE Transaction on Cloud Computing (2016 - 2018)
-- Academy of Management Annual Meeting (2015-2017)
 - 11th International Conference on Queueing Theory and Network Applications (QTNA 2016)
 - IEEE Symposium on Industrial Electronics and Applications (ISIEA 2012) 
