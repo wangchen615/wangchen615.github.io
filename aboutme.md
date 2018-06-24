@@ -40,7 +40,6 @@ title: Curriculum Vitae
 ### Invited talks
 - 2017: Accenture Tech Labs
 - 2016: IBM Thomas J. Watson Research Center
-- 2016: Huawei Technologies
 
 ### Awards and supporting information
 
