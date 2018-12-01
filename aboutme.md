@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-My CV in pdf can be found [here]().
+My CV in pdf can be found [here]({{site.baseurl}}/pdfs/chenw.cv.2018.pdf).
 ### Personal summary
 
 > Researcher working on big data driven large-scale Cloud management.
