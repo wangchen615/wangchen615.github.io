@@ -18,7 +18,7 @@ My CV in pdf can be found [here]({{site.baseurl}}/pdfs/chenw.cv.2018.pdf).
 ### Technical
 
 - Python, Go, Matlab, Django, D3.js, Node.js, Java, C, C++, Perl, Shell
-- Cloud devops in Google Cloud, AWS, Azure, IBM Cloud, Rackspace, Fastly CDN, Hadoop, Spark
+- Google Cloud, AWS, Azure, IBM Cloud, Rackspace, Kubernetes, Docker, Hadoop, Spark
 
 ### Research experience
 
@@ -31,6 +31,7 @@ My CV in pdf can be found [here]({{site.baseurl}}/pdfs/chenw.cv.2018.pdf).
 
 ### Selected Publications
 
+- Mehmet F. Aktaş, **Chen Wang**, Alaa Youssef, Malgorzata Steinder, [Resource Profile Advisor for Containers in Cognitive Platform (Poster)]({{site.baseurl}}/pdfs/mehmet.socc.2018.pdf), ACM Symposium on Cloud Computing, Carlsbad, California, October 2018.
 - **Chen Wang**, Andal Jayaseelan, Hyong Kim, [Comparing Cloud Content Delivery Networks for Adaptive Video Streaming]({{site.baseurl}}/pdfs/chenw.cloud.2018.pdf), IEEE International Conference on Cloud Computing (IEEE CLOUD), San Francisco, July 2018.
 - **Chen Wang**, Hyong Kim, Ricardo Morla, [Identifying Persistent and Recurrent QoE Anomalies for DASH streaming in the Cloud]({{site.baseurl}}/pdfs/chenw.cloudcom.2017.pdf), IEEE International Conference on Cloud Computing Technology and Science (CloudCom), Hong Kong, December, 2017.
 - **Chen Wang**, Hyong Kim, Ricardo Morla, [QWatch: Detecting and Locating QoE anomaly for VoD in the Cloud]({{site.baseurl}}/pdfs/chenw.cloudcom.2016.pdf),  IEEE International Conference on Cloud Computing Technology and Science (CloudCom), Luxembourg, December 2016.
